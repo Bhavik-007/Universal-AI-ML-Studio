@@ -1,0 +1,21 @@
+allowed_tables:
+ - uat.Pmix_item_UAT20250903
+ - dim.item
+ - dim.store
+ - fact.Pmix_item 
+
+joins:
+  # Fact.Pmix_item ↔ Dim.store
+  - left: uat.Pmix_item_UAT20250903.StoreID
+    right: dim.store.StoreID
+    type: LEFT
+
+  # Fact.Pmix_item ↔ Dim.item
+  - left: uat.Pmix_item_UAT20250903.StoreID
+    right: dim.item.StoreID
+    type: LEFT
+
+  # Fact.Pmix_item ↔ Dim.item
+  - left: uat.Pmix_item_UAT20250903.ItemID
+    right: dim.item.ItemID
+    type: LEFT

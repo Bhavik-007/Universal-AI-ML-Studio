@@ -1,0 +1,501 @@
+claim_id,claim_amount,policy_age_days,claims_last_12m,days_between_policy_and_claim,repair_estimate_variance_pct,claim_type,submission_channel,supporting_documents
+CLM00001,22996.12,1427,0,270,13.21,Travel,Web,Complete
+CLM00002,2375.38,1592,0,566,7.57,Health,Agent,Complete
+CLM00003,3508.26,2338,1,95,9.81,Property,Call centre,Complete
+CLM00004,4689.93,1903,0,319,4.12,Travel,Agent,Complete
+CLM00005,5278.34,443,3,100,60.5,Health,Mobile,Complete
+CLM00006,2999.68,754,0,176,5.52,Auto,Call centre,Complete
+CLM00007,2970.66,2012,1,311,-4.18,Auto,Web,Complete
+CLM00008,1434.78,1015,3,392,11.56,Health,Mobile,Complete
+CLM00009,4233.87,870,0,311,-8.07,Health,Agent,Complete
+CLM00010,796.81,991,1,466,7.26,Auto,Mobile,Complete
+CLM00011,12114.6,573,1,38,1.93,Health,Call centre,Complete
+CLM00012,5621.63,967,0,198,1.41,Health,Call centre,Complete
+CLM00013,12225.73,233,2,257,43.96,Travel,Agent,Complete
+CLM00014,742.99,1565,0,409,-0.67,Health,Web,Complete
+CLM00015,1581.26,1005,0,364,9.1,Travel,Mobile,Complete
+CLM00016,9058.66,566,1,447,5.45,Auto,Call centre,Complete
+CLM00017,82536.27,398,0,70,0.06,Travel,Web,Complete
+CLM00018,7752.37,1304,1,395,15.71,Property,Call centre,Complete
+CLM00019,6833.24,1236,1,427,6.64,Health,Agent,Complete
+CLM00020,4536.81,922,2,220,10.05,Travel,Mobile,Complete
+CLM00021,3721.95,116,1,395,72.58,Travel,Web,Partial
+CLM00022,6608.68,1394,0,323,16.2,Auto,Mobile,Complete
+CLM00023,1235.26,1895,0,36,9.64,Auto,Mobile,Complete
+CLM00024,1131.76,809,0,345,2.58,Health,Web,Complete
+CLM00025,1076.18,1244,1,213,-6.44,Travel,Call centre,Partial
+CLM00026,6506.64,1679,1,439,6.65,Health,Call centre,Complete
+CLM00027,2847.14,811,1,365,13.76,Auto,Call centre,Complete
+CLM00028,3231.45,1192,1,228,7.83,Auto,Agent,Complete
+CLM00029,7242.17,331,2,260,-39.23,Health,Web,Complete
+CLM00030,1211.27,544,1,412,11.96,Health,Mobile,Complete
+CLM00031,1743.09,1284,1,200,12.45,Travel,Call centre,Partial
+CLM00032,1814.67,1215,0,281,2.59,Health,Web,Complete
+CLM00033,968.53,1477,0,362,12.91,Property,Mobile,Missing
+CLM00034,1991.48,606,0,256,10.02,Auto,Mobile,Partial
+CLM00035,1255.08,1204,0,259,-0.48,Travel,Agent,Missing
+CLM00036,4732.18,1890,0,304,15.17,Travel,Call centre,Partial
+CLM00037,5058.26,2238,2,172,-5.14,Auto,Web,Complete
+CLM00038,1059.01,1840,0,32,4.54,Property,Mobile,Complete
+CLM00039,2351.23,611,0,328,3.74,Property,Web,Complete
+CLM00040,13158.82,1425,1,61,-1.6,Health,Agent,Complete
+CLM00041,1360.2,958,1,180,7.43,Travel,Web,Complete
+CLM00042,4193.58,1341,1,87,15.48,Auto,Mobile,Partial
+CLM00043,3243.53,813,0,102,14.98,Travel,Web,Complete
+CLM00044,7146.01,343,0,351,10.79,Auto,Call centre,Complete
+CLM00045,3775.82,1027,0,273,-8.57,Travel,Call centre,Complete
+CLM00046,2111.1,1561,0,268,-5.69,Health,Mobile,Complete
+CLM00047,3144.5,1343,0,142,6.33,Auto,Call centre,Complete
+CLM00048,3181.46,1401,1,221,4.73,Health,Call centre,Complete
+CLM00049,2770.11,1308,0,345,1.02,Property,Mobile,Complete
+CLM00050,1037.65,1402,0,293,20.24,Property,Call centre,Complete
+CLM00051,8058.4,1464,0,398,5.85,Auto,Mobile,Partial
+CLM00052,6996.37,1062,1,415,9.34,Health,Call centre,Complete
+CLM00053,1292.91,1241,0,269,12.9,Travel,Agent,Complete
+CLM00054,2343.54,2071,0,77,5.44,Health,Web,Complete
+CLM00055,6123.76,421,5,0,99.59,Travel,Call centre,Complete
+CLM00056,1181.79,1221,0,288,-2.52,Property,Web,Complete
+CLM00057,669.52,1251,1,206,0.15,Health,Agent,Complete
+CLM00058,1743.28,1091,0,173,-2.54,Travel,Call centre,Complete
+CLM00059,2241.45,982,0,308,17.5,Property,Mobile,Complete
+CLM00060,941.07,1304,0,591,11.42,Health,Call centre,Complete
+CLM00061,3434.35,947,0,241,0.65,Auto,Agent,Complete
+CLM00062,7557.42,1127,0,299,-1.91,Health,Agent,Complete
+CLM00063,5847.05,804,2,142,16.08,Travel,Mobile,Complete
+CLM00064,2693.65,1254,0,449,7.89,Travel,Agent,Complete
+CLM00065,683.8,1492,1,404,16.28,Property,Mobile,Partial
+CLM00066,5284.65,1094,0,396,4.52,Health,Web,Complete
+CLM00067,3351.33,195,1,463,9.09,Health,Agent,Complete
+CLM00068,4185.92,1495,0,248,7.4,Travel,Call centre,Partial
+CLM00069,14029,1260,1,263,0.01,Travel,Agent,Missing
+CLM00070,3790.11,1,3,285,36.68,Travel,Call centre,Partial
+CLM00071,298.91,1586,1,375,-4.47,Travel,Agent,Complete
+CLM00072,1283.36,500,0,33,8.95,Property,Mobile,Partial
+CLM00073,4397.7,1722,0,354,11.09,Property,Call centre,Partial
+CLM00074,3045.87,1171,0,230,12.92,Property,Agent,Complete
+CLM00075,2772.46,1,4,187,55.33,Property,Call centre,Complete
+CLM00076,957.4,1289,1,348,3.97,Travel,Web,Partial
+CLM00077,2244.67,996,0,91,17.42,Travel,Mobile,Complete
+CLM00078,1100.06,921,1,332,12.14,Travel,Call centre,Complete
+CLM00079,4521.08,831,0,325,16.11,Health,Agent,Complete
+CLM00080,2144.92,1136,0,343,16.61,Auto,Web,Complete
+CLM00081,1804.98,957,0,369,4,Auto,Call centre,Complete
+CLM00082,1625.19,271,0,479,8.1,Property,Agent,Complete
+CLM00083,3679.38,1836,0,349,11.2,Health,Agent,Complete
+CLM00084,3084.32,1077,1,302,-4.19,Property,Web,Partial
+CLM00085,3503.67,834,0,437,-4.02,Health,Mobile,Complete
+CLM00086,3443.02,635,0,569,-5.39,Travel,Call centre,Complete
+CLM00087,2813.67,1585,1,409,4.14,Property,Mobile,Complete
+CLM00088,1304.4,550,0,324,2.33,Travel,Web,Complete
+CLM00089,1661.87,1266,0,351,-6.49,Health,Call centre,Missing
+CLM00090,2173.86,908,1,330,6.19,Travel,Agent,Complete
+CLM00091,15555.29,937,0,302,4.24,Auto,Call centre,Complete
+CLM00092,1013.26,648,0,559,14.46,Property,Web,Partial
+CLM00093,2132.01,889,1,210,21.1,Travel,Web,Complete
+CLM00094,3224.76,1204,1,438,8.65,Travel,Call centre,Complete
+CLM00095,2338.66,1317,0,284,-0.57,Health,Mobile,Complete
+CLM00096,7038.68,807,0,122,10.17,Auto,Web,Complete
+CLM00097,2329.02,1154,0,277,5.07,Auto,Web,Partial
+CLM00098,2470.97,1644,0,234,3.08,Property,Web,Complete
+CLM00099,5719.88,368,0,369,-1.89,Travel,Call centre,Complete
+CLM00100,12690,1196,0,310,1.29,Property,Agent,Complete
+CLM00101,9191.17,724,0,177,3.58,Travel,Agent,Partial
+CLM00102,2672.25,673,0,476,11.43,Health,Web,Complete
+CLM00103,2865.19,1330,0,430,9.09,Auto,Web,Complete
+CLM00104,3094.48,927,0,490,19.6,Health,Call centre,Complete
+CLM00105,3352.96,591,0,328,10.39,Property,Agent,Complete
+CLM00106,1513.41,1862,2,295,8.39,Auto,Call centre,Complete
+CLM00107,15510.54,810,3,164,32.96,Health,Call centre,Complete
+CLM00108,3516.73,233,0,230,-3.3,Auto,Web,Complete
+CLM00109,2875.88,462,2,315,0.44,Travel,Call centre,Complete
+CLM00110,1078.24,1496,1,278,-0.6,Travel,Call centre,Complete
+CLM00111,3133.26,1057,1,124,-15.49,Travel,Call centre,Complete
+CLM00112,655.52,1950,0,315,-3.07,Auto,Web,Complete
+CLM00113,1871.85,1508,1,247,17.82,Travel,Web,Complete
+CLM00114,1899.83,1349,0,270,7.95,Property,Call centre,Partial
+CLM00115,3750.32,689,0,343,1.99,Health,Web,Complete
+CLM00116,13411.66,1445,0,452,8.19,Auto,Agent,Complete
+CLM00117,4710.39,562,0,198,-10.63,Travel,Mobile,Complete
+CLM00118,9496.91,1852,0,259,7.26,Property,Web,Complete
+CLM00119,4994.89,1411,0,208,15.22,Health,Call centre,Complete
+CLM00120,7332.29,787,0,200,4.03,Property,Call centre,Partial
+CLM00121,13170.07,1602,0,228,-9.18,Travel,Agent,Complete
+CLM00122,1659.93,2320,1,276,1.69,Health,Call centre,Complete
+CLM00123,1575.48,1091,1,370,15.23,Property,Call centre,Complete
+CLM00124,5090.08,1475,0,338,7.07,Property,Call centre,Complete
+CLM00125,2972.2,984,2,173,-6.35,Auto,Web,Complete
+CLM00126,3555.61,1242,1,455,23.94,Property,Mobile,Complete
+CLM00127,2443.21,446,0,413,-5.03,Travel,Call centre,Complete
+CLM00128,1850.1,1199,0,191,3.06,Travel,Call centre,Partial
+CLM00129,10901.02,1221,0,446,-3.3,Travel,Web,Complete
+CLM00130,1236.59,2099,0,339,-3.29,Auto,Mobile,Complete
+CLM00131,5162.18,302,1,281,1.38,Property,Web,Missing
+CLM00132,4534.1,1059,1,342,10.09,Travel,Web,Complete
+CLM00133,842.85,1844,1,296,15.32,Property,Mobile,Complete
+CLM00134,1533.6,1079,0,365,1.91,Auto,Web,Complete
+CLM00135,1754.34,1114,0,322,-3.08,Property,Agent,Missing
+CLM00136,4682.87,783,1,259,8.83,Travel,Mobile,Complete
+CLM00137,2222.46,733,1,56,9.06,Travel,Web,Complete
+CLM00138,2783.68,287,0,363,6.92,Auto,Mobile,Complete
+CLM00139,928.79,885,2,255,7.21,Travel,Web,Complete
+CLM00140,19162.86,705,1,393,4.1,Health,Call centre,Complete
+CLM00141,3155.67,1259,1,357,5.79,Travel,Call centre,Complete
+CLM00142,10929.28,1,1,38,35.82,Health,Web,Partial
+CLM00143,1934.3,960,0,422,13.56,Health,Mobile,Complete
+CLM00144,1768.52,973,1,324,22.83,Health,Agent,Complete
+CLM00145,13768.62,1175,0,319,6.44,Health,Call centre,Complete
+CLM00146,643.31,935,0,283,4.95,Travel,Agent,Complete
+CLM00147,3725.36,669,0,502,7.05,Health,Call centre,Complete
+CLM00148,1130.93,1242,1,214,-0.26,Auto,Call centre,Complete
+CLM00149,2155.98,1733,2,261,11.12,Auto,Agent,Complete
+CLM00150,1789.2,1264,1,151,8.53,Property,Agent,Partial
+CLM00151,1354.54,895,0,387,1.64,Property,Mobile,Complete
+CLM00152,3066.69,1138,0,230,12.22,Travel,Call centre,Complete
+CLM00153,939.72,1,1,23,40.44,Auto,Mobile,Partial
+CLM00154,2316.03,1130,0,237,-2.76,Travel,Agent,Complete
+CLM00155,2773.23,999,1,307,7.81,Auto,Mobile,Partial
+CLM00156,1004.84,733,1,149,6.9,Property,Web,Partial
+CLM00157,10002.35,823,1,30,12.68,Property,Call centre,Complete
+CLM00158,1852.76,994,0,354,11.65,Health,Call centre,Complete
+CLM00159,2465.16,1696,0,46,4.13,Auto,Call centre,Complete
+CLM00160,1856.08,1746,2,402,1.22,Travel,Web,Partial
+CLM00161,2792.65,735,1,487,5.01,Auto,Web,Complete
+CLM00162,8488.9,940,0,280,7.91,Travel,Call centre,Partial
+CLM00163,21556.07,953,0,455,8.87,Health,Agent,Complete
+CLM00164,5412.74,1604,1,297,7.41,Travel,Agent,Complete
+CLM00165,7118.09,1272,0,491,4.27,Travel,Agent,Complete
+CLM00166,11768.03,1246,0,245,12.97,Travel,Mobile,Missing
+CLM00167,8947.21,618,2,0,24.49,Property,Agent,Complete
+CLM00168,10469.28,901,0,290,24.84,Property,Mobile,Complete
+CLM00169,5619.07,1881,0,504,11.1,Health,Agent,Partial
+CLM00170,3344.89,1199,1,364,-4.02,Health,Call centre,Complete
+CLM00171,3945.27,772,0,238,6.48,Travel,Web,Complete
+CLM00172,1707.64,235,3,119,57.77,Property,Agent,Partial
+CLM00173,3765.72,1815,1,416,2.21,Property,Mobile,Partial
+CLM00174,866.97,987,0,289,-6.96,Auto,Web,Complete
+CLM00175,812.23,1674,0,615,-3.31,Auto,Web,Complete
+CLM00176,3478.31,887,1,237,9.34,Travel,Mobile,Complete
+CLM00177,1222.6,817,0,420,-9.04,Travel,Call centre,Complete
+CLM00178,2964.04,1529,1,391,-6.59,Health,Call centre,Complete
+CLM00179,3330.07,763,1,216,9.29,Property,Web,Complete
+CLM00180,3451.07,1611,0,249,3.22,Auto,Call centre,Complete
+CLM00181,1446.21,1375,1,422,-0.57,Auto,Agent,Complete
+CLM00182,6117.73,763,0,317,1.04,Health,Call centre,Partial
+CLM00183,2775.57,1164,0,340,-6.77,Health,Call centre,Complete
+CLM00184,4242.3,925,1,103,8.88,Property,Mobile,Complete
+CLM00185,1144.64,1374,0,378,-1.45,Auto,Mobile,Partial
+CLM00186,2584.63,2143,1,334,0.71,Auto,Mobile,Partial
+CLM00187,7171.25,1014,0,292,7.77,Health,Agent,Complete
+CLM00188,6477.84,1466,0,343,2.95,Health,Call centre,Missing
+CLM00189,1575.24,1212,0,250,-0.64,Property,Mobile,Complete
+CLM00190,1926.68,1212,1,228,-10.92,Health,Call centre,Complete
+CLM00191,1351.61,1117,1,270,7.94,Travel,Agent,Complete
+CLM00192,1763.17,771,0,244,5.63,Health,Call centre,Complete
+CLM00193,973.35,1367,0,561,0.86,Property,Web,Complete
+CLM00194,2669,1055,0,409,-3.3,Auto,Call centre,Complete
+CLM00195,4946.87,747,0,183,5.1,Travel,Call centre,Partial
+CLM00196,1590.74,1707,0,544,8.84,Health,Call centre,Complete
+CLM00197,2772.53,1249,1,248,5.78,Property,Call centre,Complete
+CLM00198,2498.89,1085,1,303,18.1,Auto,Agent,Complete
+CLM00199,6933.33,1870,0,407,10.64,Travel,Web,Complete
+CLM00200,1827.54,281,0,63,4.14,Travel,Web,Partial
+CLM00201,1881.5,1836,0,271,10.91,Property,Mobile,Complete
+CLM00202,1515.02,759,0,231,5.39,Property,Call centre,Complete
+CLM00203,1199.9,1305,0,324,5.36,Health,Mobile,Complete
+CLM00204,4552.12,905,0,344,15.37,Travel,Mobile,Complete
+CLM00205,2675.55,738,1,290,-2.18,Health,Call centre,Complete
+CLM00206,3114.57,1856,1,285,5.19,Auto,Agent,Complete
+CLM00207,8264.4,2128,0,427,14.52,Auto,Mobile,Partial
+CLM00208,8653.03,1089,0,336,7.47,Auto,Mobile,Complete
+CLM00209,798.72,1367,0,304,2.05,Property,Agent,Complete
+CLM00210,5005.38,1228,2,317,-8.65,Property,Mobile,Complete
+CLM00211,3570.7,2065,0,520,-13.16,Health,Call centre,Complete
+CLM00212,2060.55,143,1,320,21.61,Travel,Call centre,Complete
+CLM00213,9529.49,538,3,18,47.1,Auto,Call centre,Complete
+CLM00214,749.12,836,0,70,0.33,Travel,Call centre,Complete
+CLM00215,9605.72,22,1,127,7.8,Property,Web,Complete
+CLM00216,4500.55,1019,2,243,-2.58,Health,Agent,Partial
+CLM00217,1491.95,2124,0,286,2.35,Auto,Call centre,Complete
+CLM00218,1866.22,871,0,233,-2.53,Property,Web,Complete
+CLM00219,763.17,1595,1,342,-6.31,Travel,Mobile,Complete
+CLM00220,2318.87,1799,1,231,-11.84,Auto,Agent,Complete
+CLM00221,2025.99,1193,1,190,-7.78,Property,Call centre,Complete
+CLM00222,1032.68,1260,0,373,13.17,Health,Call centre,Partial
+CLM00223,5548.94,341,1,464,-2.9,Health,Call centre,Partial
+CLM00224,8278.67,841,0,167,9.28,Property,Agent,Complete
+CLM00225,2916.42,1653,0,329,12.65,Property,Call centre,Complete
+CLM00226,2334.34,1230,0,71,5.13,Travel,Mobile,Complete
+CLM00227,10383.65,533,3,0,33.13,Auto,Agent,Complete
+CLM00228,2934.49,1266,0,229,6.06,Property,Mobile,Missing
+CLM00229,1254.2,2296,0,436,1.67,Property,Web,Complete
+CLM00230,1768.45,984,1,206,14.63,Travel,Mobile,Complete
+CLM00231,2351.6,2002,1,202,20.01,Travel,Agent,Partial
+CLM00232,3635.67,1266,0,304,16.6,Travel,Mobile,Complete
+CLM00233,3003.31,2047,1,304,-12.21,Auto,Mobile,Complete
+CLM00234,3527.33,587,0,205,1.5,Auto,Mobile,Partial
+CLM00235,880.19,1292,0,538,5.03,Property,Call centre,Complete
+CLM00236,5075.47,1003,0,268,8.7,Property,Mobile,Complete
+CLM00237,2989.12,1269,1,313,-8.82,Auto,Mobile,Complete
+CLM00238,22975.12,1811,0,251,-8.95,Travel,Agent,Partial
+CLM00239,2186.14,1389,2,352,15.45,Travel,Call centre,Complete
+CLM00240,3861.33,1810,1,448,0.53,Property,Web,Complete
+CLM00241,70500.52,14,1,279,5.79,Travel,Mobile,Complete
+CLM00242,3481.69,788,0,208,-3.83,Health,Mobile,Partial
+CLM00243,2823.96,1208,0,432,8.12,Health,Call centre,Complete
+CLM00244,1353.52,1180,1,365,-1.58,Travel,Web,Complete
+CLM00245,10123.48,1107,0,416,6.93,Auto,Web,Partial
+CLM00246,1179.35,720,1,288,-2.83,Auto,Call centre,Complete
+CLM00247,4195.2,1799,1,277,-8.95,Property,Mobile,Complete
+CLM00248,2040.92,1018,0,412,16.4,Travel,Web,Complete
+CLM00249,2561.97,1913,0,414,8.19,Health,Web,Complete
+CLM00250,954.18,1206,0,487,2.33,Property,Call centre,Complete
+CLM00251,8729.84,1524,0,323,0.83,Auto,Call centre,Complete
+CLM00252,2386.93,1478,0,287,16.72,Health,Agent,Complete
+CLM00253,1127.69,787,1,4,9.73,Property,Web,Complete
+CLM00254,8120.54,1383,0,106,14.17,Property,Call centre,Partial
+CLM00255,1991.59,2164,1,252,0.33,Travel,Agent,Complete
+CLM00256,3895.92,1325,1,167,5.41,Health,Agent,Partial
+CLM00257,5843.78,1650,0,397,8.22,Auto,Agent,Complete
+CLM00258,4355.64,1546,1,142,0.6,Auto,Mobile,Complete
+CLM00259,1264.83,503,4,19,37.8,Property,Web,Complete
+CLM00260,5199.33,1293,0,244,0.33,Auto,Web,Complete
+CLM00261,2750.42,1473,1,444,8.19,Property,Agent,Complete
+CLM00262,2291.08,1581,2,227,-5.57,Property,Mobile,Complete
+CLM00263,2731.87,523,1,354,9.58,Travel,Call centre,Partial
+CLM00264,822.19,1323,2,323,7.49,Property,Agent,Complete
+CLM00265,3476.34,1107,1,408,3.37,Property,Mobile,Complete
+CLM00266,1000.73,1004,0,402,8.6,Health,Call centre,Complete
+CLM00267,2371.62,1847,0,295,2.08,Health,Mobile,Partial
+CLM00268,3377.91,833,0,96,-0.36,Auto,Mobile,Complete
+CLM00269,7039.06,502,0,272,9.35,Auto,Agent,Complete
+CLM00270,1547.37,1597,0,297,9.7,Auto,Call centre,Complete
+CLM00271,9521.14,489,1,334,0.94,Travel,Call centre,Complete
+CLM00272,6358.09,236,3,211,0.26,Auto,Mobile,Complete
+CLM00273,2114.29,1654,0,436,3.54,Travel,Call centre,Complete
+CLM00274,1227.83,1279,1,301,0.58,Property,Mobile,Complete
+CLM00275,939.12,1436,0,189,17.2,Travel,Mobile,Partial
+CLM00276,3704.87,978,0,245,7.53,Auto,Call centre,Complete
+CLM00277,1652.71,507,0,531,5.12,Property,Agent,Complete
+CLM00278,7781.35,607,1,379,-2.46,Auto,Agent,Complete
+CLM00279,1730.87,1063,1,425,10.91,Travel,Agent,Partial
+CLM00280,1450.21,563,0,175,0.11,Health,Mobile,Complete
+CLM00281,3593.57,1353,0,217,-0.22,Auto,Agent,Complete
+CLM00282,1721.86,968,0,218,11.18,Health,Web,Partial
+CLM00283,7382.3,442,1,102,48.91,Travel,Web,Complete
+CLM00284,6560.3,1277,0,279,-15.03,Health,Mobile,Complete
+CLM00285,3274.05,1393,0,241,3.74,Travel,Mobile,Complete
+CLM00286,3283.85,1449,2,256,6,Property,Agent,Complete
+CLM00287,3512.62,1028,0,204,2.28,Property,Mobile,Complete
+CLM00288,769.33,1291,1,278,6.28,Travel,Web,Complete
+CLM00289,4078.44,1318,0,433,-9.48,Health,Agent,Complete
+CLM00290,3387.83,1,0,118,-17.65,Health,Mobile,Complete
+CLM00291,6089.48,1523,0,341,-2.8,Travel,Web,Missing
+CLM00292,4839.9,1274,0,465,7.26,Health,Web,Complete
+CLM00293,2536.25,1482,0,278,-20.8,Auto,Call centre,Missing
+CLM00294,6808.41,556,0,236,-1.75,Auto,Agent,Complete
+CLM00295,5801.64,192,2,190,-4.22,Travel,Call centre,Complete
+CLM00296,3632.68,654,2,181,3.06,Auto,Web,Partial
+CLM00297,2324.08,1572,0,297,20.66,Health,Call centre,Complete
+CLM00298,4313.07,497,0,175,3.26,Property,Call centre,Complete
+CLM00299,2205.72,735,0,75,4.14,Health,Call centre,Complete
+CLM00300,11137.15,1467,0,281,11.71,Auto,Agent,Complete
+CLM00301,14971.3,885,0,148,5.17,Property,Call centre,Complete
+CLM00302,5997.82,735,2,298,3.28,Health,Web,Missing
+CLM00303,10229.56,1653,1,433,12.41,Auto,Call centre,Complete
+CLM00304,870.12,1673,2,522,8.78,Property,Call centre,Complete
+CLM00305,956.13,1561,1,311,7.31,Travel,Mobile,Complete
+CLM00306,2304.81,1624,0,422,3.89,Auto,Call centre,Complete
+CLM00307,3080.92,1084,0,347,2.23,Health,Mobile,Complete
+CLM00308,2543.85,1097,0,254,12.34,Auto,Agent,Complete
+CLM00309,801.35,875,0,69,2.31,Health,Call centre,Complete
+CLM00310,7489.62,1283,0,495,14.85,Auto,Mobile,Complete
+CLM00311,16703.25,936,0,174,-3.38,Health,Agent,Complete
+CLM00312,8306.47,983,0,465,16.47,Property,Agent,Complete
+CLM00313,7104.04,1499,0,364,8.78,Health,Mobile,Complete
+CLM00314,3572.05,1792,1,182,-2.75,Auto,Call centre,Complete
+CLM00315,3735.37,549,2,117,51.71,Health,Mobile,Complete
+CLM00316,3159.04,2097,1,555,-0.2,Health,Web,Complete
+CLM00317,16066.16,847,0,484,5.27,Auto,Web,Complete
+CLM00318,2249.38,281,0,238,1.11,Property,Web,Complete
+CLM00319,2071.51,1557,0,214,3.94,Health,Web,Complete
+CLM00320,7228.91,814,2,312,12.53,Health,Web,Missing
+CLM00321,7623.18,1063,0,280,9.15,Health,Agent,Partial
+CLM00322,1512.74,315,1,443,-4,Travel,Mobile,Complete
+CLM00323,2418.28,750,1,388,-3.54,Property,Agent,Partial
+CLM00324,1995.15,448,0,96,7.17,Travel,Agent,Complete
+CLM00325,3151.87,982,0,355,7.75,Travel,Web,Complete
+CLM00326,7208.02,1002,0,278,-0.4,Health,Call centre,Complete
+CLM00327,1566.78,1244,1,304,17.73,Auto,Mobile,Complete
+CLM00328,7127.61,1819,0,329,11.51,Property,Web,Complete
+CLM00329,3233.5,1538,1,443,0,Auto,Mobile,Partial
+CLM00330,19167.16,388,3,417,-0.78,Health,Mobile,Complete
+CLM00331,3847.06,1504,0,210,3.18,Property,Web,Complete
+CLM00332,2758.56,1255,0,292,2.35,Travel,Call centre,Complete
+CLM00333,11611.74,301,2,26,68.89,Health,Mobile,Complete
+CLM00334,2276.25,1188,1,98,12.88,Property,Agent,Partial
+CLM00335,708.95,1302,0,286,5.28,Auto,Call centre,Complete
+CLM00336,2459.18,854,0,521,10.42,Auto,Agent,Complete
+CLM00337,2428.34,1108,0,94,11.58,Health,Agent,Complete
+CLM00338,833.93,1791,1,297,5.47,Travel,Web,Complete
+CLM00339,6915.85,1,3,73,49.26,Property,Web,Complete
+CLM00340,570.39,685,0,334,9.75,Auto,Call centre,Complete
+CLM00341,2257.13,1169,1,184,8.9,Property,Mobile,Complete
+CLM00342,3622.34,634,1,128,-1.23,Travel,Agent,Complete
+CLM00343,3221.48,338,0,134,-0.42,Health,Web,Complete
+CLM00344,2145.54,1027,0,459,2.69,Auto,Call centre,Complete
+CLM00345,2783.81,1924,1,182,-0.65,Auto,Mobile,Complete
+CLM00346,1592,1180,0,240,-6.78,Auto,Mobile,Partial
+CLM00347,3006.86,1289,0,552,10.41,Travel,Mobile,Complete
+CLM00348,3122.75,134,0,211,7.77,Travel,Mobile,Complete
+CLM00349,1450.7,1419,2,341,-5.71,Property,Agent,Missing
+CLM00350,3692.87,1246,0,427,3.07,Health,Mobile,Complete
+CLM00351,3674.46,867,0,421,3.53,Auto,Mobile,Partial
+CLM00352,2609.81,1290,1,140,6.46,Health,Agent,Complete
+CLM00353,20678.25,1285,0,214,-3.66,Property,Mobile,Partial
+CLM00354,2663.61,670,2,336,-5.83,Travel,Agent,Complete
+CLM00355,2384.18,1365,0,531,9.16,Property,Agent,Partial
+CLM00356,2126.19,1798,1,208,-7.27,Travel,Call centre,Complete
+CLM00357,1370.94,1086,0,240,3.14,Health,Web,Complete
+CLM00358,5160.13,766,0,350,2.39,Property,Web,Complete
+CLM00359,1721.59,1111,0,374,4.01,Travel,Mobile,Complete
+CLM00360,1892.48,1627,0,381,7.02,Travel,Mobile,Complete
+CLM00361,1937.99,586,0,198,17.79,Property,Mobile,Missing
+CLM00362,1355.66,1489,1,236,-7.8,Property,Call centre,Complete
+CLM00363,734.46,860,0,325,12.01,Health,Mobile,Complete
+CLM00364,2058.33,1321,1,451,-15.1,Auto,Agent,Complete
+CLM00365,5994.92,917,0,271,16.15,Property,Agent,Complete
+CLM00366,3489.74,916,1,297,-11.34,Travel,Web,Missing
+CLM00367,10388.56,1961,1,176,24.49,Travel,Web,Complete
+CLM00368,5435.82,495,0,523,1.88,Property,Web,Complete
+CLM00369,4533.15,1442,1,318,15.32,Property,Agent,Complete
+CLM00370,13441.73,2065,0,429,13.67,Travel,Agent,Complete
+CLM00371,2758.06,1542,0,303,1.51,Auto,Agent,Complete
+CLM00372,3135.24,534,0,310,2.12,Auto,Call centre,Complete
+CLM00373,2953.74,559,0,119,-1.7,Auto,Web,Complete
+CLM00374,10249.96,824,1,41,11.3,Auto,Call centre,Partial
+CLM00375,7346.74,428,1,230,30.26,Travel,Web,Complete
+CLM00376,1774.68,1312,0,309,-1.55,Auto,Web,Complete
+CLM00377,4770.19,564,0,324,9.3,Property,Web,Complete
+CLM00378,1551.52,763,0,150,-2.18,Health,Call centre,Complete
+CLM00379,4567.76,794,1,191,2.37,Health,Mobile,Complete
+CLM00380,4150.87,1109,0,427,5.86,Travel,Agent,Complete
+CLM00381,2561.83,2192,1,508,-0.14,Travel,Web,Complete
+CLM00382,4687.47,733,0,225,1.07,Property,Call centre,Complete
+CLM00383,906.66,711,1,380,17.28,Auto,Agent,Complete
+CLM00384,3396.05,633,0,322,3.37,Auto,Call centre,Complete
+CLM00385,2058.61,1517,0,285,2.12,Travel,Call centre,Complete
+CLM00386,29431.21,1179,0,522,3.6,Property,Agent,Complete
+CLM00387,3376.72,751,0,245,8.64,Travel,Mobile,Complete
+CLM00388,4550.02,168,5,228,16.22,Property,Mobile,Complete
+CLM00389,989.66,804,0,345,8.42,Travel,Call centre,Complete
+CLM00390,8470.33,1347,0,297,7.05,Health,Call centre,Complete
+CLM00391,2252.9,2542,0,464,-9.31,Health,Agent,Complete
+CLM00392,1582.75,1475,1,334,19.35,Health,Web,Complete
+CLM00393,3901.2,1153,0,288,16.69,Property,Call centre,Complete
+CLM00394,5012.93,867,0,465,-1.4,Auto,Web,Complete
+CLM00395,4950.1,528,1,449,-3.98,Auto,Agent,Complete
+CLM00396,3028.43,1566,2,444,6.82,Property,Mobile,Complete
+CLM00397,3385.82,1539,1,0,-6.41,Travel,Agent,Complete
+CLM00398,8827.52,116,2,132,71.38,Health,Agent,Complete
+CLM00399,3901.5,1806,1,325,1.25,Health,Call centre,Complete
+CLM00400,4187.71,1210,0,295,17.97,Property,Agent,Complete
+CLM00401,7154.97,1587,0,373,-1.6,Property,Call centre,Complete
+CLM00402,3118.58,1348,0,331,4.1,Property,Agent,Complete
+CLM00403,1550.85,1111,0,381,15.14,Auto,Agent,Complete
+CLM00404,2655.97,722,1,267,2.41,Health,Mobile,Complete
+CLM00405,5448.11,1127,1,479,7.18,Property,Agent,Complete
+CLM00406,713.92,1621,1,393,13.74,Property,Web,Missing
+CLM00407,717.23,945,0,365,0.55,Health,Web,Complete
+CLM00408,6214.38,1419,1,359,-5.09,Auto,Mobile,Complete
+CLM00409,10057.74,658,0,438,-6.67,Travel,Web,Complete
+CLM00410,1083.38,1590,1,422,9.67,Auto,Agent,Partial
+CLM00411,3230.42,1356,0,286,8.11,Health,Agent,Complete
+CLM00412,5326.04,1,5,198,64.42,Travel,Agent,Complete
+CLM00413,2419.55,1087,0,320,2.81,Auto,Agent,Complete
+CLM00414,3806.35,1665,0,530,-6.45,Auto,Mobile,Complete
+CLM00415,1059.66,570,1,431,-13.82,Property,Web,Complete
+CLM00416,1229.33,664,0,224,27.94,Travel,Agent,Complete
+CLM00417,2342.56,1165,0,579,9.22,Health,Web,Complete
+CLM00418,2653.67,2266,1,47,6.09,Property,Mobile,Complete
+CLM00419,1211.04,863,0,376,7.23,Travel,Web,Complete
+CLM00420,13790.26,597,5,0,7.08,Property,Web,Complete
+CLM00421,2134.42,1330,1,525,-1.36,Travel,Mobile,Complete
+CLM00422,2127.17,905,1,330,18.95,Travel,Mobile,Complete
+CLM00423,3737.33,1280,0,204,10.27,Auto,Mobile,Partial
+CLM00424,2688.86,976,0,268,-1.11,Property,Web,Complete
+CLM00425,5825.39,1021,2,214,-4.81,Auto,Web,Partial
+CLM00426,1412.71,369,0,263,0.87,Auto,Call centre,Complete
+CLM00427,974.66,1187,0,260,2.48,Auto,Call centre,Complete
+CLM00428,2326.62,1649,0,209,21.39,Auto,Agent,Complete
+CLM00429,3128.12,1228,1,332,3.49,Auto,Call centre,Complete
+CLM00430,1104.77,1745,2,346,-4.52,Health,Call centre,Complete
+CLM00431,982.2,1490,0,180,4.53,Property,Call centre,Complete
+CLM00432,3449,1170,2,101,7.11,Property,Web,Complete
+CLM00433,1625.83,886,0,337,-5.24,Travel,Mobile,Complete
+CLM00434,932.61,956,0,363,8.22,Travel,Agent,Partial
+CLM00435,15871.38,1,5,167,67.81,Health,Agent,Complete
+CLM00436,1798.24,1066,0,366,6.11,Property,Mobile,Complete
+CLM00437,7478.96,1272,1,488,-1.38,Health,Agent,Complete
+CLM00438,3049.63,2057,0,419,0.77,Property,Agent,Complete
+CLM00439,3773.68,1464,2,621,-8.27,Property,Web,Complete
+CLM00440,2516.94,767,1,672,3.93,Property,Web,Complete
+CLM00441,356.33,480,2,89,7.49,Auto,Agent,Complete
+CLM00442,1200.59,1096,0,36,-2.17,Auto,Call centre,Partial
+CLM00443,2695.75,1605,0,299,20.52,Health,Mobile,Complete
+CLM00444,3990.94,1089,1,360,11.34,Travel,Call centre,Complete
+CLM00445,712.13,1470,0,290,-9.34,Property,Call centre,Complete
+CLM00446,2855.83,1109,1,384,-9.18,Auto,Mobile,Complete
+CLM00447,1214.62,1558,1,267,-2.87,Health,Web,Complete
+CLM00448,3596.43,401,0,216,17.59,Travel,Call centre,Complete
+CLM00449,2935.05,2002,0,234,12.13,Health,Mobile,Complete
+CLM00450,5403.5,643,1,275,17.99,Auto,Web,Missing
+CLM00451,6998.55,1596,0,401,5.08,Auto,Web,Complete
+CLM00452,4303.53,1063,1,241,3.32,Health,Agent,Partial
+CLM00453,5933.18,1142,0,265,-4.98,Travel,Call centre,Complete
+CLM00454,2252.34,1079,1,368,7.8,Auto,Call centre,Complete
+CLM00455,28523.79,1327,1,276,3.43,Travel,Mobile,Complete
+CLM00456,1124.33,1428,0,434,3.12,Travel,Agent,Complete
+CLM00457,1954.32,1729,0,189,17.94,Auto,Call centre,Missing
+CLM00458,6130.84,1903,0,163,3.99,Auto,Agent,Complete
+CLM00459,5443.5,1365,0,336,15.65,Auto,Agent,Complete
+CLM00460,4402.43,2056,1,348,-7.7,Health,Agent,Partial
+CLM00461,5116.65,1246,1,196,26.5,Auto,Web,Complete
+CLM00462,562.93,1738,0,461,2.01,Travel,Web,Complete
+CLM00463,10630.04,1414,1,530,10.66,Auto,Call centre,Complete
+CLM00464,2532.31,925,1,224,11.93,Health,Web,Complete
+CLM00465,8076.51,1290,1,478,1.02,Travel,Call centre,Complete
+CLM00466,1441.12,601,2,0,58.84,Auto,Web,Partial
+CLM00467,3660.13,1183,1,429,11.97,Property,Mobile,Complete
+CLM00468,4671.33,556,3,0,23.6,Travel,Mobile,Complete
+CLM00469,11587.66,782,5,197,23.87,Auto,Call centre,Complete
+CLM00470,3841.65,1188,2,184,5.36,Property,Call centre,Complete
+CLM00471,3995.16,1,1,291,4.08,Property,Call centre,Complete
+CLM00472,1277.74,2039,0,202,16.15,Auto,Call centre,Complete
+CLM00473,2848.15,1051,0,274,10.62,Property,Agent,Partial
+CLM00474,2580.83,788,1,519,4.44,Property,Agent,Complete
+CLM00475,4430.41,637,0,287,9.85,Property,Web,Complete
+CLM00476,6577.68,1031,1,553,-11.37,Travel,Agent,Partial
+CLM00477,3362.3,918,0,253,0.08,Auto,Web,Complete
+CLM00478,1073.91,831,0,479,7.3,Property,Mobile,Complete
+CLM00479,3248.87,858,1,104,13.92,Auto,Web,Missing
+CLM00480,24073.36,1464,1,265,6.6,Travel,Agent,Complete
+CLM00481,11123.38,2215,0,235,16.67,Health,Call centre,Complete
+CLM00482,276.02,1610,1,484,11.94,Health,Web,Complete
+CLM00483,3135.91,1761,0,322,1.09,Auto,Call centre,Complete
+CLM00484,6283.58,1011,0,49,3.88,Property,Mobile,Partial
+CLM00485,2576.37,1252,0,142,8.27,Auto,Mobile,Complete
+CLM00486,2063.02,1413,0,178,1.41,Property,Call centre,Missing
+CLM00487,2407.7,870,1,412,17.25,Travel,Web,Complete
+CLM00488,4636.67,987,1,396,-3.87,Health,Agent,Complete
+CLM00489,1189.42,1627,1,263,7.53,Auto,Call centre,Complete
+CLM00490,7715.22,1745,1,234,10.88,Property,Mobile,Partial
+CLM00491,2850.37,1233,1,385,2.49,Travel,Web,Partial
+CLM00492,1410.9,602,0,164,0.69,Auto,Mobile,Complete
+CLM00493,18024.37,202,6,134,38.25,Travel,Web,Partial
+CLM00494,866.01,479,0,344,11.5,Property,Call centre,Complete
+CLM00495,1911.86,1237,1,267,1,Property,Mobile,Complete
+CLM00496,1886.84,1327,0,347,-3.55,Travel,Web,Complete
+CLM00497,16566.76,1064,0,312,14.2,Health,Mobile,Missing
+CLM00498,1723.28,1320,0,359,8.19,Property,Call centre,Complete
+CLM00499,531.67,1408,0,139,13.06,Auto,Web,Complete
+CLM00500,1871.6,1328,0,373,11.07,Auto,Call centre,Missing

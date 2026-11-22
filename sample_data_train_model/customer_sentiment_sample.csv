@@ -1,0 +1,41 @@
+﻿Feedback_ID,Feedback_Date,Customer_Feedback,Channel,Category
+1001,2026-11-01,The product arrived earlier than expected and works perfectly.,Online Store,Delivery
+1002,2026-11-01,Customer support was very helpful and resolved my issue quickly.,Mobile App,Support
+1003,2026-11-02,The app is easy to use and the checkout process is smooth.,Mobile App,Usability
+1004,2026-11-02,My order arrived damaged and nobody has responded to my complaint.,Online Store,Product Quality
+1005,2026-11-03,"The service was okay, nothing special but nothing terrible.",Website,Service
+1006,2026-11-03,I have been charged twice for the same order. Very disappointing.,Website,Billing
+1007,2026-11-04,Excellent quality for the price. I will definitely buy again.,Online Store,Product Quality
+1008,2026-11-04,The delivery was delayed by three days.,Online Store,Delivery
+1009,2026-11-05,"The representative was polite, patient, and knowledgeable.",Call Center,Support
+1010,2026-11-05,The website keeps crashing when I try to make a payment.,Website,Technical Issue
+1011,2026-11-06,It is an average product and meets the basic requirements.,Online Store,Product Quality
+1012,2026-11-06,Fantastic experience from ordering to delivery!,Mobile App,Overall Experience
+1013,2026-11-07,I cannot log in even after resetting my password several times.,Mobile App,Technical Issue
+1014,2026-11-07,The refund was processed faster than I expected. Thank you.,Website,Refund
+1015,2026-11-08,The packaging was fine and the item matched the description.,Online Store,Product Quality
+1016,2026-11-08,I waited on hold for 40 minutes and the call got disconnected.,Call Center,Support
+1017,2026-11-09,"Great value, reliable performance, and a simple setup.",Online Store,Product Quality
+1018,2026-11-09,The subscription price increased without a clear explanation.,Mobile App,Pricing
+1019,2026-11-10,The agent listened carefully and provided a clear solution.,Call Center,Support
+1020,2026-11-10,No comment.,Website,General
+1021,2026-11-11,The new update has made the application much slower.,Mobile App,Technical Issue
+1022,2026-11-11,Everything worked as described. I am satisfied with my purchase.,Online Store,Overall Experience
+1023,2026-11-12,The item is not what I ordered. Please arrange a replacement.,Online Store,Order Issue
+1024,2026-11-12,The onboarding instructions were clear and easy to follow.,Website,Usability
+1025,2026-11-13,I am unhappy with the lack of updates about my service request.,Call Center,Support
+1026,2026-11-13,"The product is decent, although the battery life could be better.",Online Store,Product Quality
+1027,2026-11-14,"Quick response, friendly staff, and a very positive experience.",Call Center,Support
+1028,2026-11-14,Payment failed but money was deducted from my account.,Mobile App,Billing
+1029,2026-11-15,The delivery person was courteous and the package was secure.,Online Store,Delivery
+1030,2026-11-15,I have not used the service enough to form an opinion yet.,Website,General
+1031,2026-11-16,Terrible experience. The replacement request has been ignored.,Online Store,Order Issue
+1032,2026-11-16,The dashboard is clear and gives me the information I need.,Website,Usability
+1033,2026-11-17,The support team fixed the problem on the first call.,Call Center,Support
+1034,2026-11-17,The product stopped working after only two days.,Online Store,Product Quality
+1035,2026-11-18,The service is acceptable and the response time was reasonable.,Website,Service
+1036,2026-11-18,Very impressed with the quality and the overall customer experience.,Online Store,Overall Experience
+1037,2026-11-19,The instructions are confusing and I could not complete setup.,Mobile App,Usability
+1038,2026-11-19,"I received exactly what I ordered, on the promised date.",Online Store,Delivery
+1039,2026-11-20,The latest version fixed the issue I reported last week.,Mobile App,Technical Issue
+1040,2026-11-20,"The price is fair, but customer support needs improvement.",Website,Pricing

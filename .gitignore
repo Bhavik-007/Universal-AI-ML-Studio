@@ -1,0 +1,45 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Local user stores and credentials
+users.json
+auth/users.json
+!auth/users.json
+
+# Runtime state and logs
+logs/
+**/logs/
+*.log
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build artefacts
+dist/
+build/
+*.egg-info/
+
+# Runtime platform configuration and encrypted secrets
+config/platform.json
+config/mcp_servers.json
+config/mcp_capabilities.json
+config/secrets.enc
+env/
+*.bat

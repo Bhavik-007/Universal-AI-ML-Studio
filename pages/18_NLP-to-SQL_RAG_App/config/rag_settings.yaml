@@ -1,0 +1,16 @@
+rag:
+  index_name: "uas_document_chunks"
+  chunk_size: 900
+  chunk_overlap: 150
+  top_k: 4
+  supported_file_types: ["txt", "md", "csv", "pdf", "docx", "png", "jpg", "jpeg", "tif", "tiff"]
+
+image_analysis:
+  vision_model: "llava"
+  timeout_seconds: 120
+
+mongodb:
+  uri: "mongodb://localhost:27017"
+  database: "nlp_sql_bot"
+  files_collection: "document_files"
+  history_collection: "document_chat_history"

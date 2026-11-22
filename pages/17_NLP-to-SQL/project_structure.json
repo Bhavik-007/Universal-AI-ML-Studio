@@ -1,0 +1,74 @@
+{
+  "root": [
+    {
+      "file_name": ".env.example",
+      "description": "Project-level source or configuration"
+    },
+    {
+      "file_name": ".gitignore",
+      "description": "Project-level source or configuration"
+    },
+    {
+      "file_name": "Get_app_components.py",
+      "description": "Project-level source or configuration"
+    },
+    {
+      "file_name": "project_structure.json",
+      "description": "Project-level source or configuration"
+    },
+    {
+      "file_name": "test_sql_connection.py",
+      "description": "Project-level source or configuration"
+    }
+  ],
+  "nlp_to_sql_app": [
+    {
+      "file_name": "__init__.py",
+      "description": "Application package source"
+    },
+    {
+      "file_name": "core/__init__.py",
+      "description": "Application package source"
+    },
+    {
+      "file_name": "core/config.py",
+      "description": "Application package source"
+    },
+    {
+      "file_name": "core/logging_config.py",
+      "description": "Application package source"
+    },
+    {
+      "file_name": "core/security.py",
+      "description": "Application package source"
+    },
+    {
+      "file_name": "engine/__init__.py",
+      "description": "Application package source"
+    },
+    {
+      "file_name": "engine/db_manager.py",
+      "description": "Application package source"
+    },
+    {
+      "file_name": "engine/vector_search.py",
+      "description": "Application package source"
+    },
+    {
+      "file_name": "services/__init__.py",
+      "description": "Application package source"
+    },
+    {
+      "file_name": "services/bot_service.py",
+      "description": "Application package source"
+    },
+    {
+      "file_name": "ui/__init__.py",
+      "description": "Application package source"
+    },
+    {
+      "file_name": "ui/main.py",
+      "description": "Application package source"
+    }
+  ]
+}

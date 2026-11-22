@@ -1,0 +1,501 @@
+order_id,order_value,items_count,account_age_days,refund_requests_90d,delivery_distance_km,payment_method,delivery_type,coupon_used
+ORD00001,183.49,2,178,0,43.51,Wallet,Express,No
+ORD00002,82.56,2,469,0,0.05,COD,Standard,No
+ORD00003,19.99,2,490,0,16.82,Bank transfer,Standard,Yes
+ORD00004,27.34,3,439,0,11.2,Card,Standard,No
+ORD00005,28.5,3,610,0,17.11,Bank transfer,Express,No
+ORD00006,36.68,4,658,0,24.04,Bank transfer,Standard,No
+ORD00007,45.11,2,248,4,34.82,Bank transfer,Standard,No
+ORD00008,45.02,2,455,0,23.35,Card,Standard,No
+ORD00009,91.51,4,316,1,16.9,Wallet,Express,No
+ORD00010,13.2,2,774,0,5.73,Card,Standard,No
+ORD00011,15.03,1,587,0,4.87,Wallet,Express,Yes
+ORD00012,23.61,1,245,0,10.17,Bank transfer,Standard,No
+ORD00013,24.39,1,451,0,18.53,Bank transfer,Express,No
+ORD00014,134.15,1,64,0,12.77,Bank transfer,Express,No
+ORD00015,66.77,1,508,0,0.12,Wallet,Express,No
+ORD00016,64.14,4,450,0,5.91,Bank transfer,Express,No
+ORD00017,27.52,2,356,1,31.78,Bank transfer,Standard,No
+ORD00018,27.1,4,896,1,11.01,Bank transfer,Standard,Yes
+ORD00019,11.99,2,210,0,18.43,Bank transfer,Express,Yes
+ORD00020,57.24,1,676,1,14.48,COD,Standard,No
+ORD00021,46.7,6,1046,0,11.28,Card,Standard,Yes
+ORD00022,81.47,1,769,0,9.3,Wallet,Express,Yes
+ORD00023,28.57,1,492,0,18.77,Bank transfer,Standard,Yes
+ORD00024,66.74,6,1,2,51.62,Wallet,Standard,No
+ORD00025,83.02,3,1,2,46.17,Card,Pickup,No
+ORD00026,61.83,1,397,0,0.33,Bank transfer,Standard,No
+ORD00027,11.83,2,328,1,12.63,Wallet,Standard,Yes
+ORD00028,55.44,2,320,1,7.2,Bank transfer,Standard,No
+ORD00029,32.64,1,418,1,4.3,Wallet,Standard,Yes
+ORD00030,15.78,4,474,0,40.15,Wallet,Express,No
+ORD00031,7.7,1,621,0,10.47,Wallet,Express,No
+ORD00032,30.1,1,190,0,19.5,Wallet,Standard,Yes
+ORD00033,91.23,2,329,0,2.35,Wallet,Standard,No
+ORD00034,106.94,1,460,0,9.57,Wallet,Standard,Yes
+ORD00035,42.47,5,451,0,38.82,Bank transfer,Standard,No
+ORD00036,130.77,2,959,0,3.55,Wallet,Express,Yes
+ORD00037,32.13,2,558,1,0.69,Wallet,Standard,No
+ORD00038,64.54,1,96,0,7.79,Bank transfer,Standard,No
+ORD00039,24.15,1,604,1,2.17,Wallet,Express,No
+ORD00040,23.1,1,636,0,18.61,Card,Express,No
+ORD00041,20.61,3,468,1,1.59,Card,Standard,Yes
+ORD00042,7.83,2,196,0,15.85,Wallet,Standard,No
+ORD00043,81.53,5,939,0,7.95,COD,Standard,No
+ORD00044,21.13,5,232,0,13.68,Bank transfer,Standard,No
+ORD00045,18.9,2,665,0,5.25,Card,Standard,Yes
+ORD00046,14.5,3,550,0,10.82,COD,Express,Yes
+ORD00047,28.7,1,650,0,26.22,Wallet,Pickup,Yes
+ORD00048,113.8,2,926,0,10.36,Wallet,Standard,No
+ORD00049,143.4,3,640,0,4.45,Wallet,Standard,No
+ORD00050,10.35,5,360,0,12.96,Wallet,Standard,No
+ORD00051,25.84,2,776,1,0.96,Card,Standard,No
+ORD00052,16.05,2,342,0,10.22,Card,Standard,Yes
+ORD00053,66.14,7,540,1,32.48,COD,Standard,No
+ORD00054,40.47,3,176,0,4.02,Card,Pickup,Yes
+ORD00055,21.21,3,241,0,5.64,Wallet,Express,Yes
+ORD00056,34.84,1,512,0,5.49,Card,Pickup,Yes
+ORD00057,23.71,1,592,1,16.52,Card,Standard,Yes
+ORD00058,102.51,2,74,0,13.55,Card,Standard,No
+ORD00059,48.56,3,624,0,1.92,Wallet,Standard,No
+ORD00060,52.93,2,295,0,4.09,Card,Standard,Yes
+ORD00061,5.12,1,819,0,5.28,Card,Standard,Yes
+ORD00062,31.6,2,412,0,16.99,Wallet,Express,No
+ORD00063,142.34,5,219,3,6.02,Wallet,Express,Yes
+ORD00064,83.79,2,518,0,32.22,Card,Standard,No
+ORD00065,9.09,1,270,0,1.11,Card,Standard,No
+ORD00066,26.59,1,817,1,7.9,Bank transfer,Standard,No
+ORD00067,14.28,1,500,0,5.92,COD,Standard,No
+ORD00068,109.7,2,462,0,7.58,Card,Standard,No
+ORD00069,39.29,5,647,1,2.49,Wallet,Standard,No
+ORD00070,19.35,5,248,0,3.65,Wallet,Standard,No
+ORD00071,33.92,1,177,0,3.03,Bank transfer,Pickup,No
+ORD00072,5.34,1,602,0,3.75,Bank transfer,Standard,No
+ORD00073,15.5,1,225,0,16.35,Bank transfer,Standard,No
+ORD00074,33.97,1,224,0,1.4,Card,Standard,No
+ORD00075,59.86,3,709,0,2.73,Wallet,Express,Yes
+ORD00076,8.51,1,631,0,3.28,Wallet,Standard,No
+ORD00077,25.36,1,186,0,19.91,COD,Standard,No
+ORD00078,67.14,4,345,1,10.58,Bank transfer,Standard,No
+ORD00079,11.99,1,274,0,6.8,Wallet,Standard,No
+ORD00080,38.88,2,944,0,9.2,COD,Standard,Yes
+ORD00081,34.68,2,726,0,5.71,Wallet,Standard,Yes
+ORD00082,109.95,1,394,0,7.34,Card,Standard,No
+ORD00083,28.19,1,644,0,23.68,Wallet,Express,No
+ORD00084,29.37,1,160,0,14.37,COD,Standard,No
+ORD00085,60.25,1,331,0,2.34,Wallet,Standard,No
+ORD00086,13.09,4,526,0,1.23,COD,Standard,Yes
+ORD00087,28.37,1,613,0,1.9,COD,Standard,No
+ORD00088,24.07,3,475,0,2.63,Wallet,Standard,No
+ORD00089,30.05,2,562,0,13.52,Bank transfer,Standard,No
+ORD00090,133.47,4,169,5,39.55,Card,Standard,No
+ORD00091,48.81,2,459,1,32.97,Bank transfer,Pickup,Yes
+ORD00092,19.61,2,425,0,23,Card,Standard,No
+ORD00093,36.44,1,393,0,23.71,Wallet,Pickup,No
+ORD00094,209.2,1,207,0,51.06,Bank transfer,Pickup,No
+ORD00095,18.51,4,602,1,2.93,COD,Standard,No
+ORD00096,36.66,2,549,0,15.17,Wallet,Standard,No
+ORD00097,28.93,2,205,0,3.81,Bank transfer,Standard,No
+ORD00098,31.69,1,250,0,27.56,Card,Pickup,No
+ORD00099,10.58,1,599,0,12.85,COD,Standard,No
+ORD00100,88.9,4,867,1,11.15,COD,Standard,No
+ORD00101,19.26,3,538,1,9.52,Card,Standard,No
+ORD00102,67.91,1,397,1,28.88,Bank transfer,Express,No
+ORD00103,21.44,4,556,0,9.21,Bank transfer,Standard,No
+ORD00104,21.37,1,215,1,30.06,Card,Standard,No
+ORD00105,77.42,1,827,0,5.77,Card,Standard,Yes
+ORD00106,66.4,1,546,0,8.87,Card,Standard,No
+ORD00107,38.32,1,332,0,1.03,Wallet,Express,No
+ORD00108,56.42,1,458,2,11.81,Wallet,Express,No
+ORD00109,27.06,1,368,1,15.84,COD,Standard,No
+ORD00110,32.92,2,827,1,4.46,COD,Standard,No
+ORD00111,20.84,2,449,0,10.02,Card,Express,No
+ORD00112,62.36,4,538,0,21.61,Wallet,Standard,No
+ORD00113,20.38,2,643,0,0.06,Bank transfer,Standard,No
+ORD00114,93.65,1,314,0,4.78,Bank transfer,Standard,No
+ORD00115,26.55,4,548,0,7.64,Wallet,Standard,No
+ORD00116,33.59,2,568,0,3.34,Card,Pickup,Yes
+ORD00117,56.32,2,111,0,38.89,Card,Express,Yes
+ORD00118,33.67,1,563,0,17.34,Wallet,Standard,No
+ORD00119,26.88,1,488,0,4.82,Wallet,Express,No
+ORD00120,32.43,2,532,0,0.66,Wallet,Standard,No
+ORD00121,61.91,3,508,1,7.49,Card,Express,Yes
+ORD00122,20.82,4,564,2,9.56,Wallet,Standard,No
+ORD00123,30.31,5,834,0,2.97,Wallet,Standard,No
+ORD00124,33.35,3,205,0,14.36,Wallet,Standard,No
+ORD00125,60.66,1,414,1,3.44,Card,Standard,No
+ORD00126,30.88,4,666,2,3.5,Bank transfer,Standard,No
+ORD00127,261.34,3,270,4,47.44,Wallet,Standard,No
+ORD00128,29.68,3,614,0,6.02,Wallet,Express,No
+ORD00129,28.04,1,1188,0,16.75,Bank transfer,Express,No
+ORD00130,29.38,1,653,1,7.83,COD,Standard,No
+ORD00131,13.18,3,782,1,13.93,Card,Standard,Yes
+ORD00132,16.03,2,423,0,9.31,Card,Standard,No
+ORD00133,22.84,1,251,1,12.22,Card,Standard,Yes
+ORD00134,163.22,3,71,1,51.32,COD,Standard,No
+ORD00135,32.36,2,677,0,5.02,Wallet,Express,No
+ORD00136,23.59,4,601,0,30.21,Wallet,Pickup,Yes
+ORD00137,78.15,4,600,0,20.86,COD,Standard,Yes
+ORD00138,98.08,1,446,0,4.73,COD,Express,Yes
+ORD00139,79.74,3,406,0,16.25,Card,Standard,Yes
+ORD00140,18.23,1,455,0,1.06,Card,Standard,No
+ORD00141,23.41,1,681,0,6.66,Bank transfer,Standard,Yes
+ORD00142,117.87,4,710,0,29.91,Bank transfer,Standard,Yes
+ORD00143,39.2,1,248,1,7.88,Bank transfer,Standard,No
+ORD00144,27.46,3,690,0,19.2,Bank transfer,Pickup,Yes
+ORD00145,54.75,1,337,0,4.58,Wallet,Standard,No
+ORD00146,67.03,1,617,1,5.84,Bank transfer,Standard,No
+ORD00147,22.2,1,452,2,7.61,Bank transfer,Standard,No
+ORD00148,38.61,1,891,1,21.28,Bank transfer,Pickup,No
+ORD00149,63.34,1,395,1,11.74,Card,Standard,Yes
+ORD00150,14.7,2,544,1,4.69,Card,Pickup,No
+ORD00151,33.4,1,651,1,27.47,Wallet,Express,No
+ORD00152,15.18,3,281,0,4.49,COD,Standard,Yes
+ORD00153,16.63,3,481,0,2.53,Bank transfer,Express,No
+ORD00154,49.69,8,83,3,9.05,Wallet,Express,No
+ORD00155,46.25,4,371,0,15.61,Bank transfer,Express,No
+ORD00156,26.43,3,390,0,9.21,Bank transfer,Standard,No
+ORD00157,21.03,3,778,0,9.2,Bank transfer,Standard,Yes
+ORD00158,34.33,1,350,1,3.17,Card,Standard,No
+ORD00159,14.84,3,641,1,1.1,Card,Standard,No
+ORD00160,44.71,2,578,0,3.57,Card,Express,No
+ORD00161,73.11,2,150,0,13.56,COD,Express,Yes
+ORD00162,31.33,3,629,0,15.67,COD,Standard,No
+ORD00163,28.74,1,146,0,5.23,Wallet,Standard,No
+ORD00164,43.01,1,657,0,19.39,Card,Standard,Yes
+ORD00165,8.01,3,373,0,7.05,COD,Express,No
+ORD00166,48.22,1,502,0,1.95,COD,Standard,No
+ORD00167,290.42,1,176,0,10.38,Wallet,Express,No
+ORD00168,30.39,1,530,0,8.31,Wallet,Standard,No
+ORD00169,30.47,3,731,1,10.79,COD,Standard,Yes
+ORD00170,55.73,5,298,0,10.51,COD,Pickup,No
+ORD00171,104.77,2,348,0,4.33,COD,Standard,No
+ORD00172,65.53,1,613,0,16.22,Bank transfer,Standard,No
+ORD00173,7.32,2,619,0,5.9,Wallet,Express,No
+ORD00174,109.33,3,1,2,62.32,COD,Standard,Yes
+ORD00175,200.41,3,1003,0,6.6,Bank transfer,Pickup,No
+ORD00176,51.2,1,632,0,15.72,Card,Pickup,No
+ORD00177,14.76,1,674,0,36.23,Wallet,Express,No
+ORD00178,40.34,3,464,1,12.85,Card,Standard,No
+ORD00179,13.51,2,36,0,1.18,Wallet,Standard,No
+ORD00180,78.49,1,668,0,0.47,Card,Express,Yes
+ORD00181,16.96,3,358,0,8.01,COD,Standard,No
+ORD00182,34.88,3,635,0,0.41,Card,Pickup,Yes
+ORD00183,18.17,3,445,0,1.3,COD,Express,No
+ORD00184,22.59,1,559,0,19.82,COD,Standard,No
+ORD00185,93.72,2,306,0,20.31,Bank transfer,Standard,No
+ORD00186,35.6,1,716,1,11.76,Wallet,Express,No
+ORD00187,22.39,1,202,1,1.82,Wallet,Standard,Yes
+ORD00188,14.86,1,1061,0,2.43,Card,Standard,No
+ORD00189,8.93,2,1059,0,15.19,COD,Express,No
+ORD00190,13.79,2,908,0,21.72,Card,Standard,No
+ORD00191,35.82,1,818,1,40.42,Card,Standard,No
+ORD00192,65.77,5,478,0,2.41,Bank transfer,Express,No
+ORD00193,22.37,1,791,0,3.01,COD,Express,No
+ORD00194,99.42,1,475,1,15.06,Card,Standard,No
+ORD00195,20.04,4,111,2,0.19,COD,Pickup,No
+ORD00196,28.03,2,875,2,6.31,Wallet,Pickup,No
+ORD00197,15.55,1,782,0,3.02,Card,Standard,Yes
+ORD00198,66.26,3,492,0,23.46,Wallet,Standard,No
+ORD00199,143.78,2,193,0,9.48,Bank transfer,Express,Yes
+ORD00200,9.65,1,353,0,5.81,Card,Standard,No
+ORD00201,25.99,2,44,0,23.25,Wallet,Express,No
+ORD00202,80.27,1,736,0,8.07,Bank transfer,Standard,No
+ORD00203,12.03,1,99,0,7.06,Wallet,Standard,No
+ORD00204,49.24,1,571,0,4.9,Card,Standard,No
+ORD00205,77.87,3,289,0,17.09,Wallet,Standard,Yes
+ORD00206,34.98,1,143,0,6.53,COD,Pickup,Yes
+ORD00207,48.68,3,559,0,15.63,Bank transfer,Standard,No
+ORD00208,113.59,2,416,0,5.03,COD,Pickup,No
+ORD00209,129.53,1,709,0,19.07,Card,Standard,No
+ORD00210,31.71,3,183,0,15.6,Bank transfer,Express,Yes
+ORD00211,22.81,2,310,1,5.09,Bank transfer,Pickup,No
+ORD00212,17.39,3,1,0,2.29,COD,Standard,Yes
+ORD00213,65.62,2,1,0,19.47,Bank transfer,Standard,Yes
+ORD00214,12.68,1,949,0,16.07,Bank transfer,Express,No
+ORD00215,27.75,1,1020,0,15.71,Card,Express,Yes
+ORD00216,35.58,2,523,0,26.5,Wallet,Standard,No
+ORD00217,51.83,7,1,2,38.58,COD,Standard,No
+ORD00218,89.65,1,75,5,59.02,Wallet,Express,Yes
+ORD00219,199.37,1,718,0,4.53,COD,Standard,Yes
+ORD00220,30.41,1,371,0,4.97,COD,Standard,Yes
+ORD00221,24.42,4,559,0,17.03,Card,Standard,Yes
+ORD00222,67.41,1,496,0,10.06,COD,Standard,No
+ORD00223,39.16,3,357,1,14.87,Card,Express,No
+ORD00224,90.7,1,368,0,9.22,COD,Standard,No
+ORD00225,37.16,1,573,0,20.86,Wallet,Pickup,No
+ORD00226,27.83,5,255,0,7.29,Card,Standard,No
+ORD00227,9.5,3,612,0,8.67,Bank transfer,Standard,Yes
+ORD00228,10.66,2,382,0,14.11,Wallet,Standard,No
+ORD00229,9.16,1,531,0,0.05,Card,Standard,Yes
+ORD00230,43.19,2,845,0,0.47,Wallet,Express,No
+ORD00231,12.76,2,457,0,13.69,Bank transfer,Express,Yes
+ORD00232,177.49,4,379,1,42.65,Card,Express,Yes
+ORD00233,33.82,5,51,0,3.11,Wallet,Standard,No
+ORD00234,27.91,2,382,2,7.01,Wallet,Standard,Yes
+ORD00235,18.34,1,506,0,27.13,Bank transfer,Standard,No
+ORD00236,113.93,6,630,1,37.68,Card,Express,No
+ORD00237,18.86,2,10,0,2.34,Card,Standard,No
+ORD00238,16.61,2,475,0,12.49,COD,Standard,Yes
+ORD00239,76.08,5,864,0,7.49,Card,Standard,No
+ORD00240,42.45,3,303,2,15.88,COD,Standard,Yes
+ORD00241,28.09,5,446,1,18.03,Wallet,Express,No
+ORD00242,51.88,1,582,1,9.3,COD,Standard,No
+ORD00243,33.32,1,546,0,19.47,Card,Pickup,No
+ORD00244,43.3,2,891,0,16.77,COD,Standard,No
+ORD00245,18.69,1,612,0,21.36,COD,Standard,No
+ORD00246,141.07,3,831,0,19.81,Card,Standard,No
+ORD00247,22.07,1,409,0,26.84,Wallet,Express,Yes
+ORD00248,98.42,1,314,0,5.96,Card,Standard,No
+ORD00249,29.01,1,443,0,7.92,Card,Standard,No
+ORD00250,58.26,3,210,0,15.96,COD,Express,Yes
+ORD00251,55.37,1,620,0,17.37,Wallet,Standard,No
+ORD00252,73.91,2,403,0,26.84,Bank transfer,Standard,Yes
+ORD00253,18.39,3,332,0,23.38,Wallet,Standard,No
+ORD00254,70.31,1,624,1,31.35,COD,Standard,Yes
+ORD00255,120.6,1,214,0,15.44,COD,Express,No
+ORD00256,27.63,1,692,0,10.75,COD,Express,No
+ORD00257,33.93,3,380,1,8.62,Bank transfer,Express,Yes
+ORD00258,22.96,3,789,0,11.7,COD,Express,No
+ORD00259,25.98,4,401,0,1.37,COD,Express,No
+ORD00260,109.73,1,657,1,10.54,COD,Standard,No
+ORD00261,16.4,1,544,0,8.65,Wallet,Standard,Yes
+ORD00262,17.12,5,685,0,13.66,COD,Standard,No
+ORD00263,227.61,1,177,1,41.83,Bank transfer,Pickup,No
+ORD00264,114.11,3,1,6,54.22,COD,Pickup,No
+ORD00265,146.1,1,752,0,24.68,COD,Express,No
+ORD00266,24.16,2,478,0,10.28,Card,Standard,No
+ORD00267,36.18,2,697,0,22.43,Wallet,Standard,No
+ORD00268,20.85,3,672,2,30.44,Card,Express,Yes
+ORD00269,36.61,5,306,1,16.78,Card,Standard,No
+ORD00270,9.57,5,271,0,28.22,Wallet,Standard,No
+ORD00271,53.49,4,663,1,10.03,Wallet,Standard,No
+ORD00272,92.43,7,74,2,43.03,COD,Standard,Yes
+ORD00273,31.81,3,734,0,14.35,Bank transfer,Express,No
+ORD00274,25.2,2,455,0,7.96,Bank transfer,Pickup,No
+ORD00275,17.7,1,755,2,1.39,Wallet,Express,No
+ORD00276,55.11,1,605,0,1.82,Wallet,Standard,No
+ORD00277,14.59,2,571,0,5.35,COD,Standard,No
+ORD00278,105.46,5,56,3,49.34,Wallet,Pickup,No
+ORD00279,141.47,1,558,0,8.14,Bank transfer,Standard,Yes
+ORD00280,93.68,3,798,0,3.68,Bank transfer,Standard,No
+ORD00281,11.55,1,486,1,1.2,COD,Express,Yes
+ORD00282,22.74,4,632,0,14.06,Card,Standard,No
+ORD00283,44.48,1,511,0,17.37,COD,Standard,Yes
+ORD00284,31.53,1,531,1,5.57,Bank transfer,Express,Yes
+ORD00285,12.43,2,930,0,7.45,Card,Standard,No
+ORD00286,43.37,1,800,0,19.45,Card,Standard,Yes
+ORD00287,73.18,4,169,4,26.5,COD,Standard,Yes
+ORD00288,126.47,5,553,0,14.57,Wallet,Pickup,Yes
+ORD00289,27.74,2,324,1,27.4,COD,Standard,No
+ORD00290,75.01,3,456,0,27.43,Wallet,Standard,No
+ORD00291,13.64,3,577,0,16.85,Bank transfer,Standard,No
+ORD00292,16.13,6,712,2,16.51,Wallet,Pickup,No
+ORD00293,54.88,1,687,0,35.02,Wallet,Express,No
+ORD00294,70.71,3,222,1,20.01,Card,Standard,No
+ORD00295,16.94,1,744,0,2.43,Card,Standard,Yes
+ORD00296,33.68,2,477,0,18.18,Card,Express,Yes
+ORD00297,12.59,2,253,0,3.95,Bank transfer,Express,Yes
+ORD00298,29.17,1,834,1,22.88,Wallet,Express,No
+ORD00299,59.49,1,865,0,7.53,Card,Pickup,Yes
+ORD00300,24.42,3,565,3,9.58,Wallet,Standard,Yes
+ORD00301,27.82,1,677,0,4.7,COD,Standard,No
+ORD00302,15.02,2,691,0,1.73,Bank transfer,Standard,Yes
+ORD00303,21.03,3,848,0,1.43,Bank transfer,Express,Yes
+ORD00304,113.37,1,682,1,11.25,Card,Standard,Yes
+ORD00305,34.85,4,168,0,1.29,Bank transfer,Standard,No
+ORD00306,16.42,1,1002,0,19.44,Wallet,Express,Yes
+ORD00307,26.57,2,766,0,15.84,Bank transfer,Standard,Yes
+ORD00308,10.82,1,372,1,21.19,Card,Express,Yes
+ORD00309,16.28,2,242,0,5.55,COD,Standard,No
+ORD00310,85.82,2,626,0,12.39,Bank transfer,Standard,Yes
+ORD00311,29.97,2,430,0,7.95,Card,Standard,Yes
+ORD00312,124.4,2,582,0,42.79,Bank transfer,Express,No
+ORD00313,30.98,2,685,1,23.19,Card,Express,No
+ORD00314,32.29,5,358,0,1.35,Bank transfer,Standard,Yes
+ORD00315,51.86,3,220,1,13.09,COD,Standard,Yes
+ORD00316,5.1,4,596,0,16.73,Bank transfer,Standard,Yes
+ORD00317,38.22,1,366,0,8.42,Bank transfer,Express,No
+ORD00318,32,2,536,0,24.44,Wallet,Pickup,Yes
+ORD00319,93.71,2,164,0,5.99,Wallet,Express,No
+ORD00320,65.06,1,436,2,6.91,COD,Standard,No
+ORD00321,14.98,4,678,0,8.29,Card,Standard,No
+ORD00322,79,1,651,0,21.73,Wallet,Standard,Yes
+ORD00323,27.56,1,302,0,1.06,Card,Standard,No
+ORD00324,17.58,3,207,0,12.48,Bank transfer,Standard,No
+ORD00325,38.01,2,503,0,11.88,Card,Standard,No
+ORD00326,28.73,2,640,0,16.52,Wallet,Standard,Yes
+ORD00327,97.22,1,601,2,4.39,Wallet,Express,No
+ORD00328,42.03,4,371,1,22.24,Wallet,Standard,No
+ORD00329,38.24,2,574,0,14.95,Bank transfer,Express,No
+ORD00330,62.21,3,875,0,20.51,Bank transfer,Pickup,No
+ORD00331,71.17,2,551,0,15.44,COD,Standard,No
+ORD00332,57.31,2,91,0,36.92,Bank transfer,Standard,No
+ORD00333,89.45,1,550,0,0.94,Card,Express,No
+ORD00334,50.71,4,1010,0,12.78,Bank transfer,Standard,No
+ORD00335,37.24,1,178,0,2.74,Card,Standard,No
+ORD00336,78.84,2,507,0,19.48,Card,Standard,Yes
+ORD00337,31.07,2,443,0,7.26,Card,Express,Yes
+ORD00338,75.44,6,173,2,63.63,Card,Express,No
+ORD00339,110.51,3,548,0,1.63,Bank transfer,Express,No
+ORD00340,103.06,3,784,0,24.89,Wallet,Express,Yes
+ORD00341,32.93,1,521,0,15.12,Bank transfer,Standard,No
+ORD00342,24.11,3,819,1,7.61,Wallet,Express,No
+ORD00343,92.22,4,470,0,14.51,Card,Express,No
+ORD00344,57.99,1,412,0,11.14,Wallet,Standard,Yes
+ORD00345,41.3,1,332,0,12.27,Card,Pickup,No
+ORD00346,26.44,2,45,0,5.52,Wallet,Express,No
+ORD00347,41.77,2,568,0,0.42,COD,Standard,Yes
+ORD00348,32.62,3,1013,1,3.98,Bank transfer,Standard,No
+ORD00349,46.29,5,264,5,22.8,COD,Standard,No
+ORD00350,80.67,1,321,5,53.1,Card,Express,No
+ORD00351,39.88,3,396,1,6.82,COD,Standard,No
+ORD00352,25.46,1,438,0,5.39,COD,Standard,Yes
+ORD00353,62.34,1,746,0,15.78,Card,Standard,Yes
+ORD00354,81.63,1,1002,0,18.07,Bank transfer,Express,Yes
+ORD00355,65.3,1,871,0,13.3,Bank transfer,Express,Yes
+ORD00356,27.29,1,701,0,6.9,COD,Express,No
+ORD00357,125.1,5,158,6,48.52,Wallet,Standard,Yes
+ORD00358,34.97,2,552,1,8.62,Wallet,Standard,No
+ORD00359,13.94,1,311,0,24.13,Wallet,Express,Yes
+ORD00360,53.03,2,137,1,1.86,Card,Standard,Yes
+ORD00361,36.68,2,218,0,16.59,Wallet,Standard,Yes
+ORD00362,203.46,1,512,1,17.72,Card,Pickup,No
+ORD00363,91.84,2,427,0,1.55,Card,Standard,No
+ORD00364,54.48,2,132,0,13.1,COD,Standard,No
+ORD00365,39.43,4,490,0,6.1,Card,Express,Yes
+ORD00366,37.14,3,420,0,22.77,Wallet,Express,No
+ORD00367,16.4,2,206,0,7.16,Wallet,Standard,No
+ORD00368,9.8,4,407,1,36.03,Card,Standard,Yes
+ORD00369,17.98,3,419,0,2.05,Bank transfer,Standard,Yes
+ORD00370,32.03,3,345,1,9.04,Bank transfer,Standard,Yes
+ORD00371,7.58,1,731,0,6.63,COD,Standard,Yes
+ORD00372,22.62,1,24,0,8.5,COD,Standard,No
+ORD00373,27.85,2,3,0,6.4,Card,Express,No
+ORD00374,28.48,1,500,1,9.87,Bank transfer,Standard,No
+ORD00375,20.84,1,524,0,41.91,Bank transfer,Standard,No
+ORD00376,26.07,1,601,1,2.06,Wallet,Standard,No
+ORD00377,110.69,1,365,0,2.07,COD,Standard,No
+ORD00378,52.64,1,270,1,19.63,Bank transfer,Standard,Yes
+ORD00379,22.37,2,498,0,29.77,COD,Standard,No
+ORD00380,70.26,4,39,6,56.52,Card,Pickup,Yes
+ORD00381,32.47,4,887,0,6.41,Wallet,Pickup,Yes
+ORD00382,19.34,3,418,0,10.57,Card,Express,Yes
+ORD00383,19.33,1,486,0,14.58,Wallet,Standard,No
+ORD00384,67.18,1,1118,0,18.82,Bank transfer,Express,No
+ORD00385,24.68,2,451,0,11.62,Card,Express,No
+ORD00386,15.39,1,639,0,1.64,Bank transfer,Standard,Yes
+ORD00387,32.13,2,661,2,7.96,Wallet,Standard,No
+ORD00388,35.97,1,682,0,13.34,Wallet,Express,Yes
+ORD00389,8.32,1,572,0,4.87,COD,Pickup,No
+ORD00390,32.18,1,548,0,26.23,Card,Standard,No
+ORD00391,60.8,6,525,1,16.68,Card,Standard,No
+ORD00392,45.42,4,356,0,15.74,Wallet,Standard,No
+ORD00393,157.73,6,581,0,6.75,Card,Standard,No
+ORD00394,79.5,1,1007,0,28.39,Bank transfer,Express,No
+ORD00395,91.31,1,802,0,1.64,COD,Standard,Yes
+ORD00396,235.11,1,575,1,28.85,Bank transfer,Pickup,No
+ORD00397,56.3,3,713,0,32.27,Bank transfer,Express,Yes
+ORD00398,37.12,1,282,0,14.15,Wallet,Standard,No
+ORD00399,65.47,5,434,1,20.38,Bank transfer,Express,No
+ORD00400,22.39,4,736,0,29,Card,Express,No
+ORD00401,35.71,2,871,0,5.66,Wallet,Standard,No
+ORD00402,21.04,2,307,0,21.23,COD,Standard,Yes
+ORD00403,97.38,4,29,5,54.09,Wallet,Express,No
+ORD00404,20.98,4,1045,0,6.64,COD,Standard,Yes
+ORD00405,20.47,2,524,1,4.48,Bank transfer,Standard,No
+ORD00406,44.23,1,955,0,22.44,Wallet,Standard,No
+ORD00407,30.07,3,551,0,12.96,Wallet,Standard,No
+ORD00408,8.59,2,561,0,14.6,COD,Express,Yes
+ORD00409,11.95,3,423,0,21.57,Bank transfer,Standard,Yes
+ORD00410,14.83,4,735,0,22.19,Bank transfer,Standard,No
+ORD00411,17.85,6,839,0,2.31,Bank transfer,Standard,Yes
+ORD00412,44.26,3,241,0,14.26,Card,Express,Yes
+ORD00413,38.6,3,411,1,5.39,Card,Standard,No
+ORD00414,155.35,2,378,4,45.9,COD,Pickup,No
+ORD00415,56.09,3,467,0,5.77,Wallet,Pickup,Yes
+ORD00416,70.13,3,376,0,15.47,COD,Standard,No
+ORD00417,50.7,3,752,2,11.69,Bank transfer,Express,No
+ORD00418,38.35,1,775,0,13.96,COD,Standard,No
+ORD00419,159.1,4,37,2,41.54,Wallet,Express,Yes
+ORD00420,63.03,1,553,0,5.47,Bank transfer,Standard,Yes
+ORD00421,43.09,1,197,0,11.27,Wallet,Standard,Yes
+ORD00422,80.62,2,276,0,0.21,COD,Standard,No
+ORD00423,6.41,1,531,0,30.63,Card,Standard,No
+ORD00424,27.02,3,507,0,9.93,COD,Express,Yes
+ORD00425,26.73,1,258,0,10.79,Wallet,Express,Yes
+ORD00426,74.21,2,321,0,10.37,Card,Standard,Yes
+ORD00427,99.48,2,233,0,20.03,Card,Standard,Yes
+ORD00428,12,2,613,0,14.91,COD,Standard,No
+ORD00429,88.93,2,8,1,13.3,Card,Standard,Yes
+ORD00430,14.58,3,247,1,16.83,Card,Standard,Yes
+ORD00431,14.9,3,34,0,13.9,Card,Standard,No
+ORD00432,28.11,2,604,1,13.44,Card,Express,Yes
+ORD00433,26.5,3,49,1,7.09,Wallet,Standard,Yes
+ORD00434,11.12,4,507,1,5.63,Wallet,Express,No
+ORD00435,52.19,2,909,0,14.96,COD,Standard,Yes
+ORD00436,53.28,2,918,0,8.24,COD,Standard,Yes
+ORD00437,69.26,1,48,2,14.98,COD,Standard,No
+ORD00438,24.45,2,574,2,6.95,Bank transfer,Standard,No
+ORD00439,32.21,1,252,0,7.87,Card,Standard,Yes
+ORD00440,32.42,1,201,0,8.09,COD,Pickup,No
+ORD00441,107.94,4,471,0,12.64,Card,Express,Yes
+ORD00442,4.55,3,807,0,14.54,Bank transfer,Express,No
+ORD00443,37.72,3,299,5,47.18,Wallet,Standard,No
+ORD00444,33.24,1,321,0,9.63,Wallet,Standard,No
+ORD00445,15.49,3,676,0,3.4,Card,Standard,Yes
+ORD00446,27.64,4,1,0,18.74,COD,Pickup,No
+ORD00447,30.32,1,311,0,10.73,Wallet,Express,No
+ORD00448,20.9,4,294,0,11.75,Bank transfer,Standard,Yes
+ORD00449,34.64,2,519,0,0.07,Card,Pickup,No
+ORD00450,51.4,1,449,0,10.02,Wallet,Standard,No
+ORD00451,28.07,3,464,0,12.34,Bank transfer,Standard,No
+ORD00452,24.11,4,456,0,9.41,Bank transfer,Standard,No
+ORD00453,29.49,4,505,1,14.72,Bank transfer,Standard,No
+ORD00454,32.94,1,635,2,13.29,COD,Pickup,No
+ORD00455,9.79,1,537,0,15.23,Bank transfer,Express,No
+ORD00456,45.75,3,428,0,7.86,Card,Standard,No
+ORD00457,24.15,2,600,1,4.72,Bank transfer,Standard,No
+ORD00458,80.08,5,706,0,4.88,COD,Standard,No
+ORD00459,50.09,1,360,0,2.72,Wallet,Standard,No
+ORD00460,75.12,4,485,0,7.86,Card,Standard,No
+ORD00461,16.32,3,790,0,2.14,COD,Standard,No
+ORD00462,25.53,1,224,0,9.07,Card,Standard,Yes
+ORD00463,13.88,2,951,0,6.59,COD,Standard,No
+ORD00464,20.21,1,165,1,44.78,Card,Standard,Yes
+ORD00465,79.56,3,413,0,8.15,Wallet,Pickup,Yes
+ORD00466,93.81,3,262,0,6.5,Card,Standard,No
+ORD00467,14.82,1,1046,1,9.08,Wallet,Standard,No
+ORD00468,24.03,4,374,1,3.35,Wallet,Standard,No
+ORD00469,31.4,1,374,1,3.83,Card,Express,Yes
+ORD00470,49.9,1,407,0,18.14,Bank transfer,Standard,Yes
+ORD00471,9.66,1,523,0,2.6,Bank transfer,Standard,Yes
+ORD00472,10.78,3,417,2,5.7,Wallet,Express,Yes
+ORD00473,46.65,3,466,0,2.84,Card,Express,Yes
+ORD00474,8.46,1,1,0,8.81,Bank transfer,Standard,No
+ORD00475,24.22,5,514,0,0.17,COD,Standard,Yes
+ORD00476,37.09,2,504,0,3.42,COD,Pickup,No
+ORD00477,44.3,2,759,0,8.89,COD,Standard,Yes
+ORD00478,29.99,1,827,0,14.71,Card,Standard,No
+ORD00479,25.64,3,453,0,5.18,Wallet,Standard,No
+ORD00480,59.81,2,704,1,4.97,Card,Standard,Yes
+ORD00481,40.43,1,224,0,12.65,COD,Standard,Yes
+ORD00482,21.05,1,691,0,14.48,Bank transfer,Express,No
+ORD00483,34,2,356,0,0.35,COD,Standard,Yes
+ORD00484,43.3,3,203,0,16.97,COD,Standard,No
+ORD00485,110.25,3,453,0,23.8,COD,Standard,No
+ORD00486,57.42,1,850,0,5.75,Bank transfer,Express,No
+ORD00487,77.49,2,545,0,4.28,Card,Standard,No
+ORD00488,21.6,1,874,0,7.8,Wallet,Standard,No
+ORD00489,22.94,1,312,0,12.18,Wallet,Express,No
+ORD00490,62.5,6,411,1,39.21,COD,Standard,Yes
+ORD00491,66.65,5,1,5,36.23,Wallet,Standard,Yes
+ORD00492,16.35,1,556,0,14.76,Bank transfer,Standard,Yes
+ORD00493,80.33,1,554,0,13.97,Wallet,Express,No
+ORD00494,61.46,3,665,0,3.84,Bank transfer,Standard,No
+ORD00495,26.74,3,562,0,11.85,Bank transfer,Express,Yes
+ORD00496,51.89,1,315,0,13.48,Card,Express,No
+ORD00497,38.71,1,720,0,1.21,Bank transfer,Standard,Yes
+ORD00498,54.81,2,932,0,10.57,Bank transfer,Standard,Yes
+ORD00499,12.92,2,354,0,9.81,Card,Express,Yes
+ORD00500,29.91,2,41,0,14.67,Wallet,Standard,No

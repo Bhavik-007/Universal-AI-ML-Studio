@@ -1,0 +1,8 @@
+{
+  "demo": {
+    "password": "pbkdf2_sha256$600000$c72d3f17e008c1b35c6ae96518e0eebb$efd6435b4d148f81f0109933df2169ca12a74c320a1b939271fef3a450665491",
+    "email": "",
+    "role": "admin",
+    "account_type": "development_demo"
+  }
+}
